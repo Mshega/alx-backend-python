@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module 102-type_checking
+Task 102-type_checking
 """
 from typing import Tuple, List, Any
 
