@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module 100-safe_first_element
+Task 100-safe_first_element
 """
 from typing import Sequence, Union, Any
 
