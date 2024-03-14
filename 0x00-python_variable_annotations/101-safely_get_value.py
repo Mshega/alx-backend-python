@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module 101-safely_get_value.py
+Task 101-safely_get_value.py
 """
 from typing import Sequence, Union, Any, Mapping, TypeVar
 
