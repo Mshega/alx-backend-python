@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module 2-floor
+Task 2-floor
 """
 import math
 

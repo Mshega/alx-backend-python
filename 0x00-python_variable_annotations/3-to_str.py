@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 3's module.
+'''Task 3-to_str.py.
 '''
 
 

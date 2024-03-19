@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module 4-define_variables
+Task 4-define_variables
 """
 
 a: int = 1
